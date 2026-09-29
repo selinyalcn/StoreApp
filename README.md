@@ -52,8 +52,3 @@ dotnet run
 - [ ] Sepet yönetimi
 - [ ] Sipariş yönetimi
 
----
-
-## 📄 Lisans
-
-MIT
