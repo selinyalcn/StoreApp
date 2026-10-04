@@ -142,3 +142,5 @@ C:\Users\casper\OneDrive\Masaüstü\CourseApp\Store\StoreApp\obj\Debug\net9.0\re
 C:\Users\casper\OneDrive\Masaüstü\CourseApp\Store\StoreApp\obj\Debug\net9.0\StoreApp.pdb
 C:\Users\casper\OneDrive\Masaüstü\CourseApp\Store\StoreApp\obj\Debug\net9.0\StoreApp.genruntimeconfig.cache
 C:\Users\casper\OneDrive\Masaüstü\CourseApp\Store\StoreApp\obj\Debug\net9.0\ref\StoreApp.dll
+C:\Users\casper\OneDrive\Masaüstü\CourseApp\Store\StoreApp\bin\Debug\net9.0\StoreApp.staticwebassets.runtime.json
+C:\Users\casper\OneDrive\Masaüstü\CourseApp\Store\StoreApp\obj\Debug\net9.0\compressed\d6a611m2p8-vsst8r382v.gz
