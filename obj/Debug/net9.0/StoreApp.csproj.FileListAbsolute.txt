@@ -243,3 +243,7 @@ C:\Users\casper\OneDrive\Masaüstü\CourseApp\Store\StoreApp\obj\Debug\net9.0\co
 C:\Users\casper\OneDrive\Masaüstü\CourseApp\Store\StoreApp\obj\Debug\net9.0\compressed\p22c87ua8w-bekz3fa3of.gz
 C:\Users\casper\OneDrive\Masaüstü\CourseApp\Store\StoreApp\obj\Debug\net9.0\compressed\274sy52cij-92tst3mjk5.gz
 C:\Users\casper\OneDrive\Masaüstü\CourseApp\Store\StoreApp\obj\Debug\net9.0\compressed\omu34nzj59-5ipweew5fc.gz
+C:\Users\casper\OneDrive\Masaüstü\CourseApp\Store\StoreApp\bin\Debug\net9.0\Entities.dll
+C:\Users\casper\OneDrive\Masaüstü\CourseApp\Store\StoreApp\bin\Debug\net9.0\Entities.pdb
+C:\Users\casper\OneDrive\Masaüstü\CourseApp\Store\StoreApp\bin\Debug\net9.0\Repositories.dll
+C:\Users\casper\OneDrive\Masaüstü\CourseApp\Store\StoreApp\bin\Debug\net9.0\Repositories.pdb
