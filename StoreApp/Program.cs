@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using Repositories;
+using Repositories.Contracts;
 using StoreApp;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,6 +12,9 @@ builder.Services.AddDbContext<RepositoryContext>(Options =>
     b => b.MigrationsAssembly("StoreApp")
     );
 });
+
+builder.Services.AddScoped<IRepositoryManager,RepositoryManager>();
+builder.Services.AddScoped<IProductRepository,ProductRepository>();
 var app = builder.Build();
 app.UseStaticFiles();
 app.UseHttpsRedirection();
