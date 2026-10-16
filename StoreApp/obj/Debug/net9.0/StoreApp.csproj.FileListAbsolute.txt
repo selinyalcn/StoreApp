@@ -247,3 +247,5 @@ C:\Users\casper\OneDrive\Masaüstü\CourseApp\Store\StoreApp\bin\Debug\net9.0\En
 C:\Users\casper\OneDrive\Masaüstü\CourseApp\Store\StoreApp\bin\Debug\net9.0\Entities.pdb
 C:\Users\casper\OneDrive\Masaüstü\CourseApp\Store\StoreApp\bin\Debug\net9.0\Repositories.dll
 C:\Users\casper\OneDrive\Masaüstü\CourseApp\Store\StoreApp\bin\Debug\net9.0\Repositories.pdb
+C:\Users\casper\OneDrive\Masaüstü\CourseApp\Store\StoreApp\bin\Debug\net9.0\Services.dll
+C:\Users\casper\OneDrive\Masaüstü\CourseApp\Store\StoreApp\bin\Debug\net9.0\Services.pdb

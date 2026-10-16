@@ -1,7 +1,10 @@
+using System.Net;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using Repositories;
 using Repositories.Contracts;
+using Services;
+using Services.Contracts;
 using StoreApp;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -16,6 +19,11 @@ builder.Services.AddDbContext<RepositoryContext>(Options =>
 builder.Services.AddScoped<IRepositoryManager,RepositoryManager>();
 builder.Services.AddScoped<IProductRepository,ProductRepository>();
 builder.Services.AddScoped<ICategoryRepository,CategoryRepository>();
+
+builder.Services.AddScoped<IServiceManager, ServiceManager>();
+builder.Services.AddScoped<IProductService, ProductManager>();
+builder.Services.AddScoped<ICategoryService,CategoryManager>();
+
 var app = builder.Build();
 app.UseStaticFiles();
 app.UseHttpsRedirection();
