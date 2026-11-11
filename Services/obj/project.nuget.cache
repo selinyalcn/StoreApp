@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "qn/uYZ5oXSY=",
+  "dgSpecHash": "mgaxNH9fLxU=",
   "success": true,
   "projectFilePath": "C:\\Users\\casper\\OneDrive\\Masaüstü\\CourseApp\\Store\\Services\\Services.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\casper\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\casper\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\casper\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\casper\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.0\\microsoft.data.sqlite.core.9.0.0.nupkg.sha512",
     "C:\\Users\\casper\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0\\microsoft.entityframeworkcore.9.0.0.nupkg.sha512",
     "C:\\Users\\casper\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0\\microsoft.entityframeworkcore.abstractions.9.0.0.nupkg.sha512",
